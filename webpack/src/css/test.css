@@ -1,0 +1,12 @@
+body { background: bisque; }
+#box1 {
+    width: 100px;
+    height: 100px;
+    background: url("../image/wxlogo02.jpg") no-repeat;
+}
+#box2 {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background: url("../image/166921.png") no-repeat;
+}
